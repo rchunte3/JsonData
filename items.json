@@ -1,0 +1,191 @@
+[
+ {
+   "ITEM_CODE": "DOD3398",
+   "ITEM": "DO'DIRO ACOUSTIC GUITAR STRINGS MED",
+   "FEATURED": true,
+   "CATEGORY": 2,
+   "PRICE": 8.99
+ },
+ {
+   "ITEM_CODE": "DOGX50GG",
+   "ITEM": "DOGEFLEX XLR MIC CABLE 50",
+   "FEATURED": false,
+   "CATEGORY": 1,
+   "PRICE": 25.99
+ },
+ {
+   "ITEM_CODE": "SOBTT457A",
+   "ITEM": "SOBEEN DRUM STICKS 7A PINE",
+   "FEATURED": false,
+   "CATEGORY": 4,
+   "PRICE": 10
+ },
+ {
+   "ITEM_CODE": "DOD4480",
+   "ITEM": "DO'DIRO ELECTRIC GUITAR STRINGS X-LITE",
+   "FEATURED": true,
+   "CATEGORY": 2,
+   "PRICE": 12.5
+ },
+ {
+   "ITEM_CODE": "PIPCHOC",
+   "ITEM": "PIPTURT CHOCOLATE TOASTER PASTRY",
+   "FEATURED": false,
+   "CATEGORY": 0,
+   "PRICE": 2
+ },
+ {
+   "ITEM_CODE": "ETH10",
+   "ITEM": "ETHANS DRUM HEAD BLUE 10CM",
+   "FEATURED": false,
+   "CATEGORY": 4,
+   "PRICE": 8.9
+ },
+ {
+   "ITEM_CODE": "ETH14",
+   "ITEM": "ETHANS DRUM HEAD BLUE 14CM",
+   "FEATURED": false,
+   "CATEGORY": 4,
+   "PRICE": 8.9
+ },
+ {
+   "ITEM_CODE": "ETH18",
+   "ITEM": "ETHANS DRUM HEAD BLUE 18CM",
+   "FEATURED": false,
+   "CATEGORY": 4,
+   "PRICE": 8.9
+ },
+ {
+   "ITEM_CODE": "ETH25",
+   "ITEM": "ETHANS DRUM HEAD BLUE 25CM",
+   "FEATURED": false,
+   "CATEGORY": 4,
+   "PRICE": 8.9
+ },
+ {
+   "ITEM_CODE": "ETH30",
+   "ITEM": "ETHANS DRUM HEAD BLUE 30CM",
+   "FEATURED": false,
+   "CATEGORY": 4,
+   "PRICE": 8.9
+ },
+ {
+   "ITEM_CODE": "EBBSM",
+   "ITEM": "ELMO BILL BASS STRINGS MED",
+   "FEATURED": true,
+   "CATEGORY": 3,
+   "PRICE": 45.59
+ },
+ {
+   "ITEM_CODE": "DOGGT3MSS",
+   "ITEM": "DOGEFLEX 1/4 PATCH 3M",
+   "FEATURED": false,
+   "CATEGORY": 1,
+   "PRICE": 24
+ },
+ {
+   "ITEM_CODE": "DOGGT6MSS",
+   "ITEM": "DOGEFLEX 1/4 PATCH 6M",
+   "FEATURED": true,
+   "CATEGORY": 1,
+   "PRICE": 45
+ },
+ {
+   "ITEM_CODE": "IFULL",
+   "ITEM": "WAFER THIN AFTER DINNER MINT",
+   "FEATURED": false,
+   "CATEGORY": 0,
+   "PRICE": 12.95
+ },
+ {
+   "ITEM_CODE": "FKNOB11",
+   "ITEM": "FANDOOR VOLUME KNOB, 11 GRADIENTS",
+   "FEATURED": true,
+   "CATEGORY": 2,
+   "PRICE": 5.5
+ },
+ {
+   "ITEM_CODE": "DANGP1110",
+   "ITEM": "DANLOOP GUITAR PICKS 11GA, 10 PACK",
+   "FEATURED": false,
+   "CATEGORY": 2,
+   "PRICE": 4
+ },
+ {
+   "ITEM_CODE": "DANGP1210",
+   "ITEM": "DANLOOP GUITAR PICKS 12GA, 10 PACK",
+   "FEATURED": false,
+   "CATEGORY": 2,
+   "PRICE": 4
+ },
+ {
+   "ITEM_CODE": "DANGP1310",
+   "ITEM": "DANLOOP GUITAR PICKS 13GA, 10 PACK",
+   "FEATURED": false,
+   "CATEGORY": 2,
+   "PRICE": 4
+ },
+ {
+   "ITEM_CODE": "DANGP1410",
+   "ITEM": "DANLOOP GUITAR PICKS 14GA, 10 PACK",
+   "FEATURED": false,
+   "CATEGORY": 2,
+   "PRICE": 4
+ },
+ {
+   "ITEM_CODE": "DANGP1510",
+   "ITEM": "DANLOOP GUITAR PICKS 15GA, 10 PACK",
+   "FEATURED": false,
+   "CATEGORY": 2,
+   "PRICE": 4
+ },
+ {
+   "ITEM_CODE": "ZUTIMBA",
+   "ITEM": "ZULDJON TIMBALE STICKS",
+   "FEATURED": true,
+   "CATEGORY": 4,
+   "PRICE": 25.99
+ },
+ {
+   "ITEM_CODE": "SOBTT455A",
+   "ITEM": "SOBEEN DRUM STICKS 5A PINE",
+   "FEATURED": false,
+   "CATEGORY": 4,
+   "PRICE": 12
+ },
+ {
+   "ITEM_CODE": "MUNCAJ",
+   "ITEM": "MUNAL CAJON EXOTIC REDWOOD",
+   "FEATURED": true,
+   "CATEGORY": 4,
+   "PRICE": 120
+ },
+ {
+   "ITEM_CODE": "EBBSH",
+   "ITEM": "ELMO BILL BASS STRINGS HEAVY",
+   "FEATURED": false,
+   "CATEGORY": 3,
+   "PRICE": 58.59
+ },
+ {
+   "ITEM_CODE": "GEBLT",
+   "ITEM": "GEBSOON LESS TALL HOLLOW BODY ELECTRIC GUITAR",
+   "FEATURED": true,
+   "CATEGORY": 2,
+   "PRICE": 1600
+ },
+ {
+   "ITEM_CODE": "ROLKB2",
+   "ITEM": "ROLNOT KEYBOARD CABLE 2M",
+   "FEATURED": false,
+   "CATEGORY": 1,
+   "PRICE": 10
+ },
+ {
+   "ITEM_CODE": "LPMOAR",
+   "ITEM": "AUTHENTIC COWBELL",
+   "FEATURED": true,
+   "CATEGORY": 4,
+   "PRICE": 6.99
+ }
+]
